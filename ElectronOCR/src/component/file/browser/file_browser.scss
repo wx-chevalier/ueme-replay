@@ -1,0 +1,33 @@
+.file_browser_container {
+
+  height: 100%;
+
+  .file-operation {
+    margin: 5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @at-root #{&}__open-btn {
+      margin-right: 10px;
+    }
+
+  }
+
+  .ant-carousel {
+
+    margin: 10px 20px;
+    height: 70%;
+
+    div.image-item {
+      max-height: 400px;
+      min-height: 300px;
+      height: 100%;
+      background-size: 100% 100%;
+    }
+  }
+
+  .image-operation {
+    @extend .file-operation
+  }
+}
