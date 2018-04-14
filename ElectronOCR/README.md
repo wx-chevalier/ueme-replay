@@ -1,7 +1,7 @@
 # ElectronOCR
 Cute OCR Toolkits For OSX, Based On Electron,React&amp;Tesseract
 
-![](https://raw.githubusercontent.com/wxyyxc1992/ElectronOCR/master/assets/images/screenshot/screenshot-hdfs.png)
+![](https://user-images.githubusercontent.com/5803001/38767305-3123c1ae-4011-11e8-8f2d-e44f8e14969f.png)
 
 
 ## Download

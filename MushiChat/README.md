@@ -1,4 +1,4 @@
-# MushiChat: Den Den Mushi
+# MushiChat: Den Den Mushi for One Piece
 
 *Websocket based group chat app built with socket.io, react and material-ui à la The Walking Dead flavor*
 
