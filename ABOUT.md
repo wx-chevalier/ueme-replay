@@ -22,6 +22,8 @@
 
 - [jQuery.DomOutline #Project#](https://github.com/andrewchilds/jQuery.DomOutline): Firebug/Dev Tools-like DOM outline implementation using jQuery.
 
+- [Simple-JavaScript-DOM-Inspector #Project#](https://github.com/oldprojects/Simple-JavaScript-DOM-Inspector): Highlights hovered elements with a 2px red outline, and then logs the element's full CSS selector path when clicked. It could also display the selected element's XPath, or do pretty much anything with it in the callback function.
+
 ## Image
 
 - [GifW00t](https://github.com/yaronn/GifW00t):GifW00t! is a pure-javascript web recorder. Just add one script tag to your page, and users will be able to record and replay their interaction with the site.
