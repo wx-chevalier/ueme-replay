@@ -4,6 +4,8 @@
 
 ## DOM
 
+### Recorder
+
 - [pere](https://github.com/sgentle/pere): pere is a utility for record and playback of DOM edits.
 
 - [Peeping DOM](https://github.com/davidgilbertson/peeping-dom): Peeping DOM enables you to record your users' journeys through your site and play them back.
@@ -11,6 +13,14 @@
 - [redux-vcr](https://github.com/joshwcomeau/redux-vcr): Record and replay user sessions.
 
 - [puppeteer-recorder #Project#](https://github.com/checkly/puppeteer-recorder): Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+
+### Selector
+
+- [unique-selector #Project#](https://github.com/ericclemmons/unique-selector): Given a DOM node, return a unique CSS selector matching only that element.
+
+- [theroomjs #Project#](https://github.com/hsynlms/theroomjs): a vanilla javascript plugin that allows you to outline dom elements like web inspectors.
+
+- [jQuery.DomOutline #Project#](https://github.com/andrewchilds/jQuery.DomOutline): Firebug/Dev Tools-like DOM outline implementation using jQuery.
 
 ## Image
 
