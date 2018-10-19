@@ -2,6 +2,10 @@
 
 # Motivation & Credits
 
+## Observer
+
+- [daydream #Project#](https://github.com/segmentio/daydream): A chrome extension to record your actions into a nightmare or puppeteer script
+
 ## DOM
 
 ### Recorder
