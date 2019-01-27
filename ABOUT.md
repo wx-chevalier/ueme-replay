@@ -6,6 +6,8 @@
 
 - [daydream #Project#](https://github.com/segmentio/daydream): A chrome extension to record your actions into a nightmare or puppeteer script
 
+- [rrweb #Project#](https://github.com/rrweb-io/rrweb): rweb refers to 'record and replay the web', which is a tool for recording and replaying users' interactions on the web.
+
 ## DOM
 
 ### Recorder
