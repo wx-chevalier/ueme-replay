@@ -1,5 +1,7 @@
 # About
 
+# Todos
+
 # Motivation & Credits
 
 ## Observer
@@ -9,6 +11,10 @@
 - [rrweb #Project#](https://github.com/rrweb-io/rrweb): rweb refers to 'record and replay the web', which is a tool for recording and replaying users' interactions on the web.
 
 ## DOM
+
+### Media
+
+- [分享一个canvas录屏的方案](https://zhuanlan.zhihu.com/p/71528138)
 
 ### Recorder
 
