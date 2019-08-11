@@ -10,11 +10,15 @@ See more in [ABOUT](./ABOUT.md).
 
 在 [ABOUT](./ABOUT.md) 中可以了解更多参考/致敬项目列表。
 
-# Features & Cases
+## Features & Cases
 
 - 针对 Web 界面的多维度记录、回放、优化工具
 
 # Usage
+
+## Capture Web Page & Rerender & Screenshot | 网页捕获与截图
+
+## Record & Replay User Session | 录屏与回放
 
 # Development | 开发
 
